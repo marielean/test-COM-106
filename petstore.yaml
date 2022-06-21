@@ -3,10 +3,8 @@ servers:
   - url: '//petstore.swagger.io/v2'
 info:
   description: >-
-    This is a sample server Petstore server.  You can find out more about
-    Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net,
-    #swagger](http://swagger.io/irc/).  For this sample, you can use the api key
-    `special-key` to test the authorization filters.
+    This is the new description made for testing purposes. It should trigger a new build in the 
+    api in the registry and portal.
   version: 1.0.0
   title: Swagger Petstore
   termsOfService: 'http://swagger.io/terms/'
