@@ -5,6 +5,7 @@ info:
   description: >-
     This is the new description made for testing purposes. It should trigger a new build in the 
     api in the registry and portal.
+    SECOND UPDATE FOR TESTING PURPOSES
   version: 1.0.0
   title: Swagger Petstore
   termsOfService: 'http://swagger.io/terms/'
